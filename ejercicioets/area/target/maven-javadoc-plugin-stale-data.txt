@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'area 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'area 1.0-SNAPSHOT API'
+es.iespuerto.area
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/src/main/java = 1647442235274
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/package-search-index.js = 1647443204519
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/allpackages-index.html = 1647443204535
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/deprecated-list.html = 1647443204539
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/index-all.html = 1647443204527
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/type-search-index.js = 1647443204527
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/search.js = 1647443204551
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/member-search-index.zip = 1647443204527
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/member-search-index.js = 1647443204527
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/package-search-index.zip = 1647443204527
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/index.html = 1647443204543
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/stylesheet.css = 1647443204547
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/element-list = 1647443204483
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/constant-values.html = 1647443204499
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/type-search-index.zip = 1647443204527
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/overview-tree.html = 1647443204511
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/script.js = 1647443204547
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/allclasses-index.html = 1647443204535
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/help-doc.html = 1647443204547
+/home/daw/Documentos/examenETS/ejercicioETS/ejercicioets/area/target/site/apidocs/allclasses.html = 1647443204543
